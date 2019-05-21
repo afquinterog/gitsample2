@@ -2,3 +2,5 @@ features
 added new feature2
 this is a change
 this is another change
+
+and other
